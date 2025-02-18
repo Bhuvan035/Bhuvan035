@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhuvanchandra3008@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1toAFhJrkU3GqBUP-i2MHEWWTOyVovupX/view?usp=sharing](https://drive.google.com/file/d/1toAFhJrkU3GqBUP-i2MHEWWTOyVovupX/view?usp=sharing)
+- 📄 Find my Resume here [https://drive.google.com/file/d/1toAFhJrkU3GqBUP-i2MHEWWTOyVovupX/view?usp=sharing](https://drive.google.com/file/d/1toAFhJrkU3GqBUP-i2MHEWWTOyVovupX/view?usp=sharing)
 
 - ⚡ Fun fact **I love big wild cats**
 
