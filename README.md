@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mobile app development, Crypto**
 
-- 👨‍💻 Portfolio [bhuvanchandra.com](bhuvanchandra.com)
+- 👨‍💻 Portfolio [bhuvanchandra.com](https://bhuvanchandra.com/)
 
 - 📫 How to reach me **bhuvanchandra3008@gmail.com**
 
