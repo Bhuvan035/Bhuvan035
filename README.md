@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhuvanchandra3008@gmail.com**
 
-- 📄 Find my Resume here https://drive.google.com/file/d/1QZW4UnxzWcQyze8hoK-UX1_g0hY7M1H4/view?usp=sharing
+- 📄 Find my Resume here https://drive.google.com/file/d/1QbTRXn9nygshw5VEk3Ma-vj6MCnk8UTA/view?usp=sharing
 
 - ⚡ Fun fact **I love big wild cats**
 
