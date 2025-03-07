@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Mobile app development, Crypto**
 
+- 🔭 I’m currently working on **Music Recognition AI**
+
 - 👨‍💻 Portfolio [bhuvanchandra.com](https://bhuvanchandra.com/)
 
 - 📫 How to reach me **bhuvanchandra3008@gmail.com**
