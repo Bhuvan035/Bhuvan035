@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mobile app development, Crypto**
 
-- 🔭 I’m currently working on **Music Recognition AI**
+- 🔭 I’m currently working on **ASRA**
 
 - 👨‍💻 Portfolio [bhuvanchandra.com](https://bhuvanchandra.com/)
 
