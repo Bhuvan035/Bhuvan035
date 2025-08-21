@@ -1,13 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Bhuvan Chandra</h1>
-<h3 align="center">🚀 I'm a student at UC Irvine, originally from Bengaluru, actively looking for job opportunities.</h3>
+<h3 align="center">🚀 Building secure AI agents to take care of your boring tasks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan035&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan035" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhuvan035" target="blank"><img src="https://img.shields.io/twitter/follow/bhuvan035?logo=twitter&style=for-the-badge" alt="bhuvan035" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile app development, Crypto**
-
-- 🔭 I’m currently working on **ASRA**
+- 🔭 I’m currently working on **TakeBridge**
 
 - 👨‍💻 Portfolio [bhuvanchandra.com](https://bhuvanchandra.com/)
 
